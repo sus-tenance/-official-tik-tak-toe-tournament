@@ -1,5 +1,5 @@
 # gamer
-electrons game
+official tik tak toe tournament
 
 
 gamer
@@ -9,4 +9,4 @@ play now
 i first move already
 O|X|O
 _|X|_
-X| |
+X| |O
