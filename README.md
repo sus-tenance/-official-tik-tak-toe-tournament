@@ -7,6 +7,6 @@ gamer
 titatoe
 play now
 i first move already
-O|_|_
+O|_|O
 _|X|_
 X| |
