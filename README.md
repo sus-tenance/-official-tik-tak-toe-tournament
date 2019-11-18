@@ -9,4 +9,4 @@ play now
 i first move already
 O|_|_
 _|X|_
- | |
+X| |
