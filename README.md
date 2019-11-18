@@ -8,5 +8,5 @@ titatoe
 play now
 i first move already
 O|X|O
-_|X|_
+_|X|X
 X| |O
