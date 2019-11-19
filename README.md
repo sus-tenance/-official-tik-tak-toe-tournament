@@ -1,4 +1,4 @@
-# official T<sup>3</sup> tournament
+# official T<sup>3<sup>3</sup></sup> tournament
 official tik tak toe tournament
 
 
