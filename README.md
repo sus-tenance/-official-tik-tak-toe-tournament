@@ -8,5 +8,6 @@ titatoe
 play now
 i first move already
 O|X|O
-_|X|X
+X|X|O
 X| |O
+i, jacob, win haha 
